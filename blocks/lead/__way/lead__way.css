@@ -1,0 +1,14 @@
+.lead__way{
+    width: 95%;
+    position: absolute;
+    top: 14.6%;
+    right: calc(5%/2);
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .lead__way{
+        width: 95%;
+        position: absolute;
+        top: 14.6%;
+        right: calc(5%/2);
+    }
+} 

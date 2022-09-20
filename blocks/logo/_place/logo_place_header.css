@@ -1,0 +1,12 @@
+.logo_place_header{
+    background-image: url(../../../images/header-logo.svg);
+    height: 52px;
+    width: 176px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+    .logo_place_header{
+        background-size: cover;
+        width: 142px;
+        height: 42px;
+    }
+}
