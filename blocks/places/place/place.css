@@ -2,7 +2,7 @@
     list-style-type: none;
     margin-bottom: 80px;
     display: grid;
-    grid-template-columns: fit-content(340px) minmax(min-content, max-content) ;
+    grid-template-columns: fit-content(340px) minmax(min-content, max-content);
     grid-template-rows: repeat(2, minmax(min-content, max-content));
     grid-row-gap: 3rem;
     grid-column-gap: 2.5rem;
@@ -23,7 +23,7 @@
 @media screen and (min-width: 320px) and (max-width: 767px){
     .place{
         margin-bottom: 50px;
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr;
         grid-template-rows: repeat(2, minmax(min-content, max-content));
         gap: 2rem;
     }

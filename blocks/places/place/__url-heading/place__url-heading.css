@@ -2,7 +2,7 @@
     color: #AAAAAA;
     font-weight: 400;
     font-size: 0.75rem;
-    line-height: 1; 
+    line-height: 1;
     text-transform:uppercase;
 }
 @media screen and (min-width: 320px) and (max-width: 767px){
