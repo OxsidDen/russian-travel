@@ -1,12 +1,13 @@
-.header__lang-link{
+.header__link{
+    color: white;
     margin-right: 1.125rem;
   }
-  .header__lang-link:last-of-type
+  .header__link:last-of-type
   {
     margin-right: 0px;
   }
 @media screen and (min-width: 320px) and (max-width: 767px){
-    .header__lang{
+     .header__link{
         font-size: 1.125rem;
         line-height: 1.25rem;
       }

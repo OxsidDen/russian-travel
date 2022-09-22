@@ -1,19 +1,10 @@
 .lead__background{
     width: 100%;
-    height: 615px;
+    background-size: cover;
 }
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
     .lead__background{
+        
         height: auto;
-    }
-}
-@media screen and (min-width: 768px) and (max-width: 1023px){
-    .lead__background{
-        height: auto;
-    }
-}
-@media screen and (min-width: 320px) and (max-width: 767px){
-    .lead__background{
-        height:auto;
     }
 }
