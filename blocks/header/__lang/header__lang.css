@@ -2,5 +2,6 @@
     display: flex;
     font-style: normal;
     font-size: 1.5rem;
-    line-height: 1.167; 
+    line-height: 1.167;
+    align-items: flex-end;
   }
